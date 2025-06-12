@@ -1,7 +1,7 @@
 
 {
   "name": "Calzedonia Loyalty",
-  "short_name": "CalzLoyalty",
+  "short_name": "Calzedonia",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
